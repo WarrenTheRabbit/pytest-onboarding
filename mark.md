@@ -1,5 +1,6 @@
-pytest has a folder `src/_pytest/mark`.
 The `mark` package provides generic mechanisms for marking and selecting python functions.
+It is located at `src/_pytest/mark`.
+
 ### Directory Structure
 ```
 __init__.py
