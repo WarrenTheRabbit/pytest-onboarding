@@ -2,14 +2,12 @@
 
 This repository is a step towards contributing 'Case Studies and Documentation' to [the *pytest* framework](https://docs.pytest.org/). It is a work in progress. 
 
-In this *readme*, you can view:
+In this *readme*, you can view and learn something about:
 - [the Structure](#the-structure) 
 - [the Process](#the-process)
 - [the Motivation](#motivation)
 - [some Background](#background)
-- [the Person](#me)
-
-
+- [the Author](#me)
 
 #### The Structure
 
@@ -54,7 +52,7 @@ The larger hope behind the refactoring proposal is 'to increase the number of pe
 
 If put in service to that goal, I think that 'outreach and documentation of all stripes' could help onboard and inspire junior developers. This repository is the start of my attempt to do that outreach and documentation. 
 
-#### The Person
+#### The Author
 
 *Who*. My name is [Warren](https://www.linkedin.com/in/warrenmarkham/). I'm a career changer. I'm average height, average weight and of average intelligence. I don't know a lot about software engineering and I find it very challenging. You are in good company if you are feeling overwhelmed. By documenting some of the steps I'm taking, I hope it helps you take some of yours.
 
