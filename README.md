@@ -61,7 +61,7 @@ If put in service to that goal, I think that 'outreach and documentation of all 
 
 *Why*.  In a sense, this repository embodies how I view software engineering. Fundamentally, I see software engineering as a complex social activity that unfolds over time. In my book, to be a software engineer means to seek responsibility, build relationships and adopt attitudes of curiosity, empathy and servant leadership. 
 
-For although code is a technical artifact inside a computer, it is also an attempt to model and achieve something 'out there'. An 'out there' that goes on and changes regardless of what the code says; that changes as people's understandings and discoveries of what matters to them in their reality changes. Therefore, a software engineer cannot cannot model or act with purpose about things that are 'out there' without patience, commitment, empiricism and people-skills. 
+For although code is a technical artifact inside a computer, it is also an attempt to model and achieve something 'out there'. An 'out there' that goes on and changes regardless of what the code says; that changes as people's understandings and discoveries of what matters to them in their reality changes. Therefore, a software engineer cannot model or act with purpose about the things that are 'out there' without patience, commitment, empiricism and people-skills. 
 
 *How*. If you interact with me, you can expect me to be passionate, fully engaged and kind. You are also very welcome to interact with me. I've chosen software engineering as a career path because it demands and inspires the whole of my personality and skillset. 
 
