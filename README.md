@@ -15,7 +15,7 @@ This repository is part of that. I am creating it to store the notes, diagrams, 
 
 #### The Process
 Over time, I hope to convert elements of this repository into documentation that is used by the *pytest* repository to help onboard and welcome junior developers. 
-Combined with outreach and mentoring efforts, it is my hope that junior developers will "find intellectual, social and emotional welcome in the pytest community". 
+Combined with outreach and mentoring efforts, it is my hope that junior developers will 'find intellectual, social and emotional welcome in the pytest community'. 
 
 #### The Vision
 The larger hope is 'to increase the number of people who have a passion for something I think is very important': <br>
