@@ -1,5 +1,5 @@
 # The Pytest Onboarding project
-This repository is the 'Case Study and Documentation' arm for the overarching goal stated in the [I want to encourage beginners to contribute by making refactoring pull requests](https://github.com/pytest-dev/pytest/issues/11351) issue posted to the *pytest* repo: 
+This repository starts the 'Case Study and Documentation' arm of the overarching goal stated in the [I want to encourage beginners to contribute by making refactoring pull requests](https://github.com/pytest-dev/pytest/issues/11351) issue posted to the *pytest* repo: 
 
 > If I can make the pytest codebase more accessible to beginners like me, maybe programmers will find some of the passion and professionalism they will need to make the world safer by being part of the pytest community.
 
