@@ -29,7 +29,7 @@ As I learn and contribute to [the *pytest* framework](https://docs.pytest.org/),
 Over time, I hope to convert elements of this repository into documentation that helps onboard and welcome junior developers to the [the *pytest* framework](https://docs.pytest.org/)'s community. 
 
 #### Motivation
-The motivation for this project was first mentioned in *pytest* issue #11351, '[I want to encourage beginners to contribute by making refactoring pull requests](https://github.com/pytest-dev/pytest/issues/11351)':
+The motivation for this project was first mentioned in *pytest* issue #11351 ([I want to encourage beginners to contribute by making refactoring pull requests](https://github.com/pytest-dev/pytest/issues/11351)):
 
 > If I can make the pytest codebase more accessible to beginners like me, maybe programmers will find some of the passion and professionalism they will need to make the world safer by being part of the pytest community.
 
