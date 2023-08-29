@@ -18,3 +18,7 @@ sequenceDiagram
   console_main -->> __main__: code
 
 ```
+#### Questions
+- how are arguments and plugins passed to `main()`?
+- how are tests collected, filtered and run?
+- how is the terminal written to?
