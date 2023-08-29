@@ -28,7 +28,7 @@ behaviour of launching a debug session on an individual Python file, you would g
 #### When you use a correct configuration
 Instead, you need to configure the debugger to run *pytest* as a package and add breakpoints to locations of interest.
 For example, if you add a breakpoint to line 47 of `src/_pytest/config/__init__.py` and launch the debugger session with 
-[a pytest configuration](#####Debugger-Configuration), you can start debugging:
+[a pytest configuration](#debugger-configuration), you can start debugging:
 ![image](https://github.com/WarrenTheRabbit/case-studies/assets/37808734/f3863fe3-40e1-4851-9831-3997b072648c)
 
 
