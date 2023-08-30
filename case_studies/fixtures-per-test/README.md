@@ -46,9 +46,11 @@ def test_two(x):
 }
 ```
 
-####
-
-2. Add a configuration file that will make it possible to debug _pytest_ as it executes the command `pytest --fixtures-per-test ./testing/learning_tests/test_file_that_will_create_example_behaviour.py` debugger configuration to file:
+#### Add a configuration
+Updating `launch.json` will make it possible to debug _pytest_ as it executes the command 
+```bash
+pytest --fixtures-per-test ./testing/learning_tests/test_file_that_will_create_example_behaviour.py
+```
 
 ```json
 {
