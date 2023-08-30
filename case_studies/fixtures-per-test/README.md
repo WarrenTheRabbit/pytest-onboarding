@@ -24,9 +24,9 @@ def test_two(x):
 
 ##### Open `launch.json`.
 
-![VS Code Open 'launch.json` command](media\open_launch_json.png)
+![VS Code Open 'launch.json` command](/media/open_launch_json.png)
 
-```json
+```jsonc
 {
   // Use IntelliSense to learn about possible attributes.
   // Hover to view descriptions of existing attributes.
@@ -52,7 +52,7 @@ Updating `launch.json` will make it possible to debug _pytest_ as it executes th
 pytest --fixtures-per-test ./testing/learning_tests/test_file_that_will_create_example_behaviour.py
 ```
 
-```json
+```jsonc
 {
   // Remove or include the message about IntelliSense.
   "version": "0.2.0",
