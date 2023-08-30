@@ -24,7 +24,7 @@ def test_two(x):
 
 ##### Open `launch.json`.
 
-![VS Code Open 'launch.json` command](image.png)
+![VS Code Open 'launch.json` command](media\open_launch_json.png)
 
 ```json
 {
@@ -59,8 +59,8 @@ def test_two(x):
       // Existing configurations, if any.
     },
     {
-      // The configuration that will be used 
-      // to learn more about the behaviour 
+      // The configuration that will be used
+      // to learn more about the behaviour
       // we are seeking to change.
       "name": "Python: exclude-paramaterized",
       "type": "python",
