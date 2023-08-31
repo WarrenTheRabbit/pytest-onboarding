@@ -54,14 +54,14 @@ If put in service to that goal, I think that 'outreach and documentation of all 
 
 #### The Author
 
-*Who*. My name is [Warren](https://www.linkedin.com/in/warrenmarkham/). I'm a career changer. I'm average height, average weight and of average intelligence. I don't know a lot about software engineering and I find it very challenging. You are in good company if you are feeling overwhelmed. By documenting some of the steps I'm taking, I hope it helps you take some of yours.
+*Who*. My name is [Warren](https://www.linkedin.com/in/warrenmarkham/). I'm a career changer. I'm average height, average weight and of average intelligence. I don't know a lot about programming and I find it very challenging. You are in good company if you are feeling overwhelmed. By documenting some of the steps I'm taking, I hope it helps you take some of yours.
 
 
-*Why*.  In a sense, this repository embodies how I view software engineering. Fundamentally, I see software engineering as a complex social activity that unfolds over time. In my book, to be a software engineer means to seek responsibility, build relationships and adopt attitudes of curiosity, empathy and servant leadership. 
+*Why*.  In a sense, this repository embodies how I view software engineering, which I view as different to programming. I enjoy programming and work at improving my skills. But what I'm really passionate about is software engineering. Fundamentally, I see software engineering as a complex social activity that unfolds over time. In my mind, to be a software engineer means to seek responsibility, build relationships and adopt attitudes of curiosity, empathy and servant leadership. 
 
-For although code is a technical artifact inside a computer, it is also an attempt to model and achieve something 'out there'. An 'out there' that goes on and changes regardless of what the code says; that changes as people's understandings and discoveries of what matters to them in their reality changes. Therefore, a software engineer cannot model or act with purpose about the things that are 'out there' without patience, commitment, empiricism and people-skills. 
+For although programs are technical artifacts inside a computer, software is the attempt to model and achieve something 'out there'. An 'out there' that goes on and changes regardless of what the code says. The 'out there' changes as people's understandings and discoveries of what matters to them most in their reality changes. Therefore, a software engineer cannot model or act with purpose about the things that are 'out there' without patience, commitment, empiricism and people-skills. They must step towards people and think about people.  
 
-*How*. If you interact with me, you can expect me to be passionate, fully engaged and kind. You are also very welcome to interact with me. I've chosen software engineering as a career path because it demands and inspires the whole of my personality and skillset. 
+*How*. If you interact with me, you can expect me to be passionate, fully engaged and kind. You are also very welcome to interact with me! I've chosen software engineering as a career path because it demands and inspires the whole of my personality and skillset. 
 
 
    
