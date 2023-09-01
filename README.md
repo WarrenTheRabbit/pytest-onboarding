@@ -7,7 +7,7 @@ In this *readme*, you can view and learn something about:
 - [the Process](#the-process)
 - [the Motivation](#motivation)
 - [the Background](#background)
-- [the Author](#me)
+- [the Author](#the-author)
 
 #### The Structure
 
