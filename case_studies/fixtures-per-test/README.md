@@ -4,6 +4,8 @@
 
 ### Problem Statement
 
+
+
 ### First Steps
 
 ##### Create the example.
@@ -77,3 +79,12 @@ pytest --fixtures-per-test ./testing/learning_tests/test_file_that_will_create_e
   ]
 }
 ```
+#### Add a breakpoint
+Without a breakpoint, the debugger will run from start to finish without an opportunity to inspect the execution context. 
+
+We don't know where we want to add the breakpoints at this point. But we have some clues. 
+
+| Clue | Reason | 
+| --- | --- |
+| `get_direct_param_fixture_func`  |  The-Compiler: "It doesn't make sense to show it as a fixture without a docstring which is "defined" here"   | 
+| `--fixtures-per-test` | 
