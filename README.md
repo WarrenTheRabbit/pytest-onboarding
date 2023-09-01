@@ -13,13 +13,13 @@ In this *readme*, you can view and learn something about:
 
 | Directory  | Description | Motivation | 
 | ---- | --- | --- |
+|[advice](/advice/README.md)| I write up advice I've received from pytest devs here.    | juniors can give back by documenting and scaling advice|
+|[case studies](/case_studies/README.md)| I write up issues and pull requests here.    | examples and retrospection are teachers|
 |[domain](/domain/README.md)| I speculate about and suggest domain objects here.    | thinking about design increases understanding |Domain-Driven Design |
-|[packages](/packages/README.md)| I summarise and hypothesise about pytest packages here. | knowledge is data organised, memories are senses processed  | |
-|[objects](/objects/README.md)| I summarise and hypothesise about pytest objects here. | knowledge is data organised, memories are senses processed  | |
-|[functions](/functions/README.md)| I summarise and hypothesise about pytest functions here. | knowledge is data organised, memories are senses processed  | |
-|[case studies](/case_studies/README.md)| I write up issues and pull requests here.    | examples and retrospection are teachers| |
-|[prompts](/prompts/README.md)| I write prompts and prompt pipelines here.    | automation frees up higher-level thinking  | | 
-|[advice](/advice/README.md)| I write up advice I've received from pytest devs here.    | juniors can give back by documenting and scaling advice| |
+|[functions](/functions/README.md)| I summarise and hypothesise about pytest functions here. | knowledge is data organised, memories are senses processed  |
+|[objects](/objects/README.md)| I summarise and hypothesise about pytest objects here. | knowledge is data organised, memories are senses processed  |
+|[packages](/packages/README.md)| I summarise and hypothesise about pytest packages here. | knowledge is data organised, memories are senses processed  |
+|[prompts](/prompts/README.md)| I write prompts and prompt pipelines here.    | automation frees up higher-level thinking  | 
 |[scripts](/scripts/README.md)| I keep scripts that help manage this repo here. | automation frees up higher-level thinking |
 
 #### The Process
