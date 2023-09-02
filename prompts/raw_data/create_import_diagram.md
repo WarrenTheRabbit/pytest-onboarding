@@ -1,6 +1,7 @@
-/prompts/raw_data/create_relationship_map.md
+/prompts/raw_data/create_import_diagram.md
 
 #### CONTEXT
+Each python file should have a mindmap that visualises its imports.
 
 
 #### INPUT
