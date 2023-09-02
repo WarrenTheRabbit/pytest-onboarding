@@ -16,7 +16,7 @@
 |[_pytest.reports](#_pytestreports)|[*/src/_pytest/reports.py*](https://github.com/pytest-dev/pytest/tree/main/src/_pytest/reports.py)|
 |[_pytest._io](#_pytestio)|[*/src/_pytest/io*](https://github.com/pytest-dev/pytest/tree/main/src/_pytest/_io) |
 
-<hr>
+
 ##### .pathlib
 ```mermaid
 mindmap
@@ -26,7 +26,6 @@ mindmap
 ```
 [source](https://github.com/pytest-dev/pytest/blob/main/src/_pytest/pathlib.py.py) | [go back](#imports)
 
-<hr>
 ##### .reports
 ```mermaid
 mindmap
@@ -35,7 +34,6 @@ mindmap
 ```
 [source](https://github.com/pytest-dev/pytest/blob/main/src/_pytest/reports.py.py) | [go back](#imports)
 
-<hr>
 ##### _pytest
 ```mermaid
 mindmap
@@ -44,7 +42,7 @@ mindmap
 ```
 [source](https://github.com/pytest-dev/pytest/blob/main/src/_pytest/nodes.py) | [go back](#imports)
 
-<hr>
+
 ##### _pytest.config
 ```mermaid
 mindmap
@@ -55,7 +53,7 @@ mindmap
 ```
 [source](https://github.com/pytest-dev/pytest/blob/main/src/_pytest/config) | [go back](#imports)
 
-<hr>
+
 ##### _pytest.config.argparsing
 ```mermaid
 mindmap
@@ -64,7 +62,7 @@ mindmap
 ```
 [source](https://github.com/pytest-dev/pytest/tree/main/src/_pytest/config/argparsing.py) | [go back](#imports)
 
-<hr>
+
 ##### _pytest.deprecated
 ```mermaid
 mindmap
@@ -73,7 +71,7 @@ mindmap
 ```
 [source](https://github.com/pytest-dev/pytest/tree/main/src/_pytest/deprecated.py) | [go back](#imports)
 
-<hr>
+
 ##### _pytest.fixtures
 ```mermaid
 mindmap
@@ -83,7 +81,7 @@ mindmap
 ```
 [source](https://github.com/pytest-dev/pytest/tree/main/src/_pytest/fixtures.py) | [go back](#imports)
 
-<hr>
+
 ##### _pytest.main
 ```mermaid
 mindmap
@@ -92,7 +90,7 @@ mindmap
 ```
 [source](https://github.com/pytest-dev/pytest/tree/main/src/_pytest/main.py) | [go back](#imports)
 
-<hr>
+
 ##### _pytest.nodes
 ```mermaid
 mindmap
@@ -101,7 +99,7 @@ mindmap
 ```
 [source](https://github.com/pytest-dev/pytest/tree/main/src/_pytest/nodes.py) | [go back](#imports)
 
-<hr>
+
 ##### _pytest.python
 ```mermaid
 mindmap
@@ -110,7 +108,7 @@ mindmap
 ```
 [source](https://github.com/pytest-dev/pytest/tree/main/src/_pytest/python.py) | [go back](#imports)
 
-<hr>
+
 ##### _pytest.reports
 ```mermaid
 mindmap
@@ -119,7 +117,7 @@ mindmap
 ```
 [source](https://github.com/pytest-dev/pytest/tree/main/src/_pytest/reports.py) | [go back](#imports)
 
-<hr>
+
 ##### _pytest._io
 ```mermaid
 mindmap
