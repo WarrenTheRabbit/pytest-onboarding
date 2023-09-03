@@ -2,6 +2,17 @@
 
 #### CONTEXT
 Each python file should have a mindmap that visualises its imports.
+```mermaid
+flowchart LR
+    subgraph input
+        a[.py file]
+    end
+    subgraph output
+        b["mindmap of the modules
+        used by the .py file"]
+    end
+    input --> output
+```
 
 
 #### INPUT
