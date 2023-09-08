@@ -19,7 +19,8 @@ In this *readme*, you can view and learn something about:
 |[functions](/functions/README.md)| I summarise and hypothesise about pytest functions here. | knowledge is data organised, memories are senses processed  |
 |[objects](/objects/README.md)| I summarise and hypothesise about pytest objects here. | knowledge is data organised, memories are senses processed  |
 |[packages](/packages/README.md)| I summarise and hypothesise about pytest packages here. | knowledge is data organised, memories are senses processed  |
-|[prompts](/prompts/README.md)| I write prompts and prompt pipelines here.    | automation frees up higher-level thinking  | 
+|[prompts](/prompts/README.md)| I write prompts and prompt pipelines here.    | automation frees up higher-level thinking  |
+|[python](/python/README.md) | I learn about python and ground those lessons in the pytest codebase here. | without meaning, there is despair | 
 |[scripts](/scripts/README.md)| I keep scripts that help manage this repo here. | automation frees up higher-level thinking |
 
 #### The Process
