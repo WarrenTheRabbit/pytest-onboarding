@@ -1,0 +1,3 @@
+| Event                                                                 | Date       | Author                                                | Summary                                                     |
+| --------------------------------------------------------------------- | ---------- | ----------------------------------------------------- | ----------------------------------------------------------- |
+| [PR #11413](https://github.com/pytest-dev/pytest/pull/11413)          | 2023-09-23 | [WarrenTheRabbit](https://github.com/WarrenTheRabbit) | attempts to replace `.joinpath()` with `/` operator |
