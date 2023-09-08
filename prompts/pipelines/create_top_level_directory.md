@@ -32,9 +32,9 @@ the creation of a top level directory should include the following steps:
 
 #### Example
 ##### Inputs
-`directory name`: prompts
-`description`: I write prompts and prompt pipelines here.
-`motivation`: automation frees up higher-level thinking
+`directory name`: prompts <br>
+`description`: I write prompts and prompt pipelines here. <br>
+`motivation`: automation frees up higher-level thinking <br>
 
 ##### Outputs
 Creates the `prompts` directory and a minimal readme file:
