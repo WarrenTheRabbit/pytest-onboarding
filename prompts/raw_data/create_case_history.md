@@ -22,8 +22,8 @@ fixes two `[attr-defined]` type errors
 
 
 #### Output
-
-cat > ./case_studies/type-error/test.md << 'EOF'
+mkdir -p ./case_studies/type-error
+cat > ./case_studies/type-error/README.md << 'EOF'
 | Event                                                             | Date       | Author                                                | Summary                                |
 | ----------------------------------------------------------------- | ---------- | ----------------------------------------------------- | -------------------------------------- |
 | [Issue #11343](https://github.com/pytest-dev/pytest/issues/11343) | 2023-08-23 | [WarrenTheRabbit](https://github.com/WarrenTheRabbit) | identifies two `[attr-defined]` errors |
