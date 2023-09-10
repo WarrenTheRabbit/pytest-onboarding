@@ -33,4 +33,17 @@ sequenceDiagram
   console_main ->> __main__: return code
 ```
 
-##### Parameters
+##### Linkable Class Diagram with tooltips
+
+```mermaid
+classDiagram
+class ClickHref
+class ClickHrefSelfTarget
+class ClickHrefTopTarget
+class ClickHrefParentTarget
+
+click ClickHref href "https://github.com/WarrenTheRabbit/pytest-onboarding/blob/main/objects/File/README.md" "This is a tooltip for a link"
+click ClickHrefSelfTarget href "https://github.com/WarrenTheRabbit/pytest-onboarding/blob/main/objects/File/README.md" "This is a tooltip for a link" _self
+click ClickHrefTopTarget href "https://github.com/WarrenTheRabbit/pytest-onboarding/blob/main/objects/File/README.md" "This is a tooltip for a link" _top
+click ClickHrefParentTarget href "https://github.com/WarrenTheRabbit/pytest-onboarding/blob/main/objects/File/README.md" "This is a tooltip for a link" _parent
+```
