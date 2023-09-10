@@ -46,11 +46,14 @@ class ClickHrefParentTarget {
   <<<a href='https://google.com'>Google</a>>
 }
 
+note for ClickHrefSelfTarget "<a href='https://github.com/WarrenTheRabbit/pytest-onboarding'>pytest-onboarding</a>"
+
+note for ClickHrefSelfTarget "<a href='https://www.google.com'>Google</a>"
+
+
 class Link
 
-note for ClickHrefParentTarget "<a href='https://github.com/WarrenTheRabbit/pytest-onboarding/'>Google</a>"
-
-link Link "<a href='https://github.com/WarrenTheRabbit/pytest-onboarding/blob/main/objects/File/README.md'>Google</a>"
+link Link "<a href='https://github.com/WarrenTheRabbit/pytest-onboarding/tree/main'>Google</a>"
 
 click ClickHref href "https://github.com/WarrenTheRabbit/pytest-onboarding/blob/main/objects/File/README.md" "This is a tooltip for a link"
 click ClickHrefSelfTarget href "https://github.com/WarrenTheRabbit/pytest-onboarding/blob/main/objects/File/README.md" "This is a tooltip for a link" _self
