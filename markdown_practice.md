@@ -39,11 +39,27 @@ sequenceDiagram
 classDiagram
 class ClickHref
 class ClickHrefSelfTarget
-class ClickHrefTopTarget
-class ClickHrefParentTarget
+class ClickHrefTopTarget {
+  <<<a href='https://github.com/WarrenTheRabbit/pytest-onboarding/blob/main/objects/File/README.md'>File</a>>
+}
+class ClickHrefParentTarget {
+  <<<a href='https://google.com'>Google</a>>
+}
+
+class Link
+
+link Link "<a href='https://github.com/WarrenTheRabbit/pytest-onboarding/blob/main/objects/File/README.md'>Google</a>"
 
 click ClickHref href "https://github.com/WarrenTheRabbit/pytest-onboarding/blob/main/objects/File/README.md" "This is a tooltip for a link"
 click ClickHrefSelfTarget href "https://github.com/WarrenTheRabbit/pytest-onboarding/blob/main/objects/File/README.md" "This is a tooltip for a link" _self
 click ClickHrefTopTarget href "https://github.com/WarrenTheRabbit/pytest-onboarding/blob/main/objects/File/README.md" "This is a tooltip for a link" _top
 click ClickHrefParentTarget href "https://github.com/WarrenTheRabbit/pytest-onboarding/blob/main/objects/File/README.md" "This is a tooltip for a link" _parent
+```
+
+
+```mermaid
+flowchart TB
+  GoogleLink[<a href='https://google.com'>works</a>]
+
+  GitHubLink[<a href='https://github.com/WarrenTheRabbit/pytest-onboarding/blob/main/objects/File/README.md'>GitHubLink</a>]
 ```
