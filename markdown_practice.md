@@ -48,6 +48,8 @@ class ClickHrefParentTarget {
 
 class Link
 
+note for ClickHrefParentTarget "<a href='https://github.com/WarrenTheRabbit/pytest-onboarding/'>Google</a>"
+
 link Link "<a href='https://github.com/WarrenTheRabbit/pytest-onboarding/blob/main/objects/File/README.md'>Google</a>"
 
 click ClickHref href "https://github.com/WarrenTheRabbit/pytest-onboarding/blob/main/objects/File/README.md" "This is a tooltip for a link"
